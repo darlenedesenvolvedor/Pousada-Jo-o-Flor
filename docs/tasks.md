@@ -11,11 +11,13 @@
 
 ## A Fazer
 
-- [ ] Configurar o projeto
+- [x] Configurar o projeto
 - [x] Criar o Docs inicial
 - [x] Criar a estrutura inicial
 - [x] Criar a base HTML
-- [x] Adicionar o TailwindCss
-- [x] Adicionar o Ionicos
-- [x] Adicionar as imagens
-  
+- [x] Add o TailwindCss
+- [x] Add o Ionicos
+- [x] Add as imagens
+- [x] Add dicas de Git-Github
+- [x] Add dicas commits
+- [x] Add dicas python-flask
