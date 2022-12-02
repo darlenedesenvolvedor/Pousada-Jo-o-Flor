@@ -21,3 +21,5 @@
 - [x] Add dicas de Git-Github
 - [x] Add dicas commits
 - [x] Add dicas python-flask
+- [x] Criar exemplo html (base, homepage, footer)
+- [x] Add exemplo tailwindcss e ionicons
