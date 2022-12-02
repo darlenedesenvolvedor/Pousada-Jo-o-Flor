@@ -11,12 +11,11 @@
 
 ## A Fazer
 
-**28/11/22**
 - [ ] Configurar o projeto
 - [x] Criar o Docs inicial
 - [x] Criar a estrutura inicial
 - [x] Criar a base HTML
 - [x] Adicionar o TailwindCss
 - [x] Adicionar o Ionicos
-- [ ] Adicionar as imagens
+- [x] Adicionar as imagens
   
